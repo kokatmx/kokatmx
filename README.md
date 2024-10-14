@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suko Dwi Atmodjo</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate frontend developer from Indonesia, Data Sciencetist, and AI Enthusiast</h3>
 
 # 💫 About Me:
 I'm currently study in Vocational Education
