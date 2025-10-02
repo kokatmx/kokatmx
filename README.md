@@ -21,7 +21,22 @@
 - ⛓️ I'm also exploring the **Blockchain** space, particularly interested in smart contracts and decentralized applications (dApps).
 - 👯 I’m looking to collaborate on open-source projects related to web development or educational AI tools.
 - 🥅 2025 Goals: Land my first role as a Junior Web Developer and contribute to a meaningful project.
-- 📫 How to reach me: **<a href="https://linkedin.com/in/sukodwiatmodjo" target="_blank"> My Linkedin </a>**
+
+---
+
+### 🤝 Connect with Me / Hubungi Saya
+
+<p align="center">
+  <a href="https://linkedin.com/in/sukodwiatmodjo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:sukodwiatmodjo134@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
@@ -120,20 +135,6 @@ Ini adalah proyek-proyek yang paling saya banggakan. Pastikan untuk mengecek *RE
 </p>
 
 ---
-
-### 🤝 Connect with Me / Hubungi Saya
-
-<p align="center">
-  <a href="https://linkedin.com/in/sukodwiatmodjo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:sukodwiatmodjo134@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 <hr/>
 
