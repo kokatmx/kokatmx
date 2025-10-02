@@ -21,7 +21,7 @@
 - ⛓️ I'm also exploring the **Blockchain** space, particularly interested in smart contracts and decentralized applications (dApps).
 - 👯 I’m looking to collaborate on open-source projects related to web development or educational AI tools.
 - 🥅 2025 Goals: Land my first role as a Junior Web Developer and contribute to a meaningful project.
-- 📫 How to reach me: **sukodwiatmodjo134@gmail.com**
+- 📫 How to reach me: **<a href="https://linkedin.com/in/sukodwiatmodjo" target="_blank"> My Linkedin </a>**
 
 ---
 
