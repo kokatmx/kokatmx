@@ -65,49 +65,49 @@
 
 ### ✨ My Featured Projects / Proyek Unggulan Saya
 
-<table>
+Ini adalah proyek-proyek yang paling saya banggakan. Pastikan untuk mengecek *README* di masing-masing repository untuk detail teknis dan cara menjalankannya.
+
+<table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center">Project Title 1: E-Commerce Platform</h3>
-      <br>
-      <a href="" target="_blank">
-        <img src="" alt="Project 1 Screenshot">
-      </a>
-      <br>
-      <p align="center">
-        A full-featured e-commerce website built with the MERN stack, including product search, user authentication, and a payment gateway.
+      <h3><a href="[LINK KE REPO PROYEK 1]">Nama Proyek 1: Aplikasi E-Commerce Sederhana</a></h3>
+      <p>
+        Sebuah platform e-commerce fungsional yang dibangun dari awal. Proyek ini mengimplementasikan fitur-fitur utama seperti autentikasi pengguna, manajemen produk, keranjang belanja, dan proses checkout.
+        <br/><br/>
+        <strong>Tujuan Proyek:</strong> Mempelajari arsitektur backend monolitik yang solid dan manajemen state di frontend.
       </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Redux
+      <p>
+        <strong>Teknologi:</strong> React, Node.js, Express, PostgreSQL, JWT.
       </p>
-      <p align="center">
-        <a href="" target="_blank">View Demo</a>
-        ·
-        <a href="" target="_blank">Source Code</a>
-      </p>
+      <a href="[LINK KE LIVE DEMO PROYEK 1]" target="_blank">Lihat Live Demo</a> • 
+      <a href="[LINK KE REPO PROYEK 1]" target="_blank">Lihat Kode</a>
     </td>
     <td width="50%">
-      <h3 align="center">Project Title 2: AI Article Summarizer</h3>
-      <br>
-      <a href="" target="_blank">
-        <img src="" alt="Project 2 Screenshot">
-      </a>
-      <br>
-      <p align="center">
-        A simple web app that summarizes long articles into concise points using the OpenAI GPT-3.5 API. My first step into practical AI implementation.
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> Vue.js, Express.js, OpenAI API
-      </p>
-      <p align="center">
-        <a href="" target="_blank">View Demo</a>
-        ·
-        <a href="" target="_blank">Source Code</a>
-      </p>
+      <a href="[LINK KE LIVE DEMO PROYEK 1]"><img src="https://play.google.com/store/apps/details?id=com.mdiwebma.screenshot&hl=id" alt="Screenshot Proyek 1" width="100%"></a>
     </td>
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="[LINK KE LIVE DEMO PROYEK 2]"><img src="https://play.google.com/store/apps/details?id=com.mdiwebma.screenshot&hl=id" alt="Screenshot Proyek 2" width="100%"></a>
+    </td>
+    <td width="50%">
+      <h3><a href="[LINK KE REPO PROYEK 2]">Nama Proyek 2: Aplikasi Dashboard Analitik</a></h3>
+      <p>
+        Dashboard interaktif untuk memvisualisasikan data penjualan menggunakan chart dan grafik. Data diambil dari REST API dan diolah di sisi frontend untuk memberikan insight yang mudah dipahami.
+        <br/><br/>
+        <strong>Tantangan Teknis:</strong> Mengelola data real-time dan state yang kompleks dengan efisien.
+      </p>
+      <p>
+        <strong>Teknologi:</strong> Next.js, TypeScript, Recharts, TailwindCSS.
+      </p>
+      <a href="[LINK KE LIVE DEMO PROYEK 2]" target="_blank">Lihat Live Demo</a> • 
+      <a href="[LINK KE REPO PROYEK 2]" target="_blank">Lihat Kode</a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 GitHub Stats
