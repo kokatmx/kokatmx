@@ -136,8 +136,6 @@ Ini adalah proyek-proyek yang paling saya banggakan. Pastikan untuk mengecek *RE
 
 ---
 
-<hr/>
-
 <div align="center">
-  <p>Thank you for coming. Let's connect!</p>
+  <h3>Thank you for coming. Let's connect!</h3>
 </div>
