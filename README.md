@@ -81,49 +81,81 @@
 
 ### ✨ My Featured Projects / Proyek Unggulan Saya
 
-Ini adalah proyek-proyek yang paling saya banggakan. Pastikan untuk mengecek *README* di masing-masing repository untuk detail teknis dan cara menjalankannya.
+Here are some of the projects I'm most proud of. Each repository contains a detailed README.md with technical specifications and setup instructions.
 
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <h3><a href="[LINK KE REPO PROYEK 1]">Nama Proyek 1: Aplikasi E-Commerce Sederhana</a></h3>
-      <p>
-        Sebuah platform e-commerce fungsional yang dibangun dari awal. Proyek ini mengimplementasikan fitur-fitur utama seperti autentikasi pengguna, manajemen produk, keranjang belanja, dan proses checkout.
-        <br/><br/>
-        <strong>Tujuan Proyek:</strong> Mempelajari arsitektur backend monolitik yang solid dan manajemen state di frontend.
-      </p>
-      <p>
-        <strong>Teknologi:</strong> React, Node.js, Express, PostgreSQL, JWT.
-      </p>
-      <a href="[LINK KE LIVE DEMO PROYEK 1]" target="_blank">Lihat Live Demo</a> • 
-      <a href="[LINK KE REPO PROYEK 1]" target="_blank">Lihat Kode</a>
-    </td>
-    <td width="50%">
-      <a href="[LINK KE LIVE DEMO PROYEK 1]"><img src="https://play.google.com/store/apps/details?id=com.mdiwebma.screenshot&hl=id" alt="Screenshot Proyek 1" width="100%"></a>
-    </td>
-  </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <h3><a href="[YOUR_REPO_LINK_HERE]">E-Commerce Website - Berank Thrift</a></h3>
+            <p>
+                Developed a full-featured e-commerce platform for a thrift store as my final academic project. The
+                system handles the entire sales process, featuring JWT-based authentication, complete product CRUD
+                (Create, Read, Update, Delete) functionality, and transaction management.
+            </p>
+            <details>
+                <summary><strong>Key Achievement & Impact</strong></summary>
+                <p>
+                    Conducted comprehensive bug fixing and performance optimization, resulting in a <strong>reduction of
+                        page load time by approximately 30%</strong>. This demonstrates a strong ability to not only
+                    build features but also to refine and enhance application performance.
+                </p>
+            </details>
+            <p>
+                <strong>Tech Stack:</strong> Laravel, Vue.js, TypeScript, JWT, and MySQL.
+            </p>
+            <div>
+                <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
+                    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"
+                        alt="Live Demo">
+                </a>
+                <a href="[YOUR_REPO_LINK_HERE]" target="_blank">
+                    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"
+                        alt="Source Code">
+                </a>
+            </div>
+        </td>
+        <td width="50%" valign="top">
+            <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
+                <img src="https://user-images.githubusercontent.com/26179770/133883025-2856e4e5-0b3c-4d2c-8007-063e5e4085f4.gif"
+                    alt="Berank Thrift E-Commerce Demo" width="100%">
+            </a>
+        </td>
+    </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <a href="[LINK KE LIVE DEMO PROYEK 2]"><img src="https://play.google.com/store/apps/details?id=com.mdiwebma.screenshot&hl=id" alt="Screenshot Proyek 2" width="100%"></a>
+    <td width="50%" valign="top">
+      <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
+        <img src="https://user-images.githubusercontent.com/26179770/133883025-2856e4e5-0b3c-4d2c-8007-063e5e4085f4.gif" alt="Internal Dashboard Demo" width="100%">
+      </a>
     </td>
-    <td width="50%">
-      <h3><a href="[LINK KE REPO PROYEK 2]">Nama Proyek 2: Aplikasi Dashboard Analitik</a></h3>
+    <td width="50%" valign="top">
+      <h3><a href="[YOUR_REPO_LINK_HERE]">Internal Contact Dashboard - Alfamart</a></h3>
       <p>
-        Dashboard interaktif untuk memvisualisasikan data penjualan menggunakan chart dan grafik. Data diambil dari REST API dan diolah di sisi frontend untuk memberikan insight yang mudah dipahami.
-        <br/><br/>
-        <strong>Tantangan Teknis:</strong> Mengelola data real-time dan state yang kompleks dengan efisien.
+        Designed and built a web-based internal dashboard to manage employee contact information for Alfamart DC Madiun. The project focused on creating a user-friendly and efficient system for internal company use.
       </p>
+      <details>
+        <summary><strong>Technical Focus & Solution</strong></summary>
+        <p>
+          The core of the project involved integrating a relational database to ensure efficient and structured data management. This improved data accessibility and maintainability for the administrative team.
+        </p>
+      </details>
       <p>
-        <strong>Teknologi:</strong> Next.js, TypeScript, Recharts, TailwindCSS.
+        <strong>Tech Stack:</strong> Laravel and MySQL.
       </p>
-      <a href="[LINK KE LIVE DEMO PROYEK 2]" target="_blank">Lihat Live Demo</a> • 
-      <a href="[LINK KE REPO PROYEK 2]" target="_blank">Lihat Kode</a>
+      <div>
+        <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+        </a>
+        <a href="[YOUR_REPO_LINK_HERE]" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📊 GitHub Stats
