@@ -86,7 +86,7 @@ Here are some of the projects I'm most proud of. Each repository contains a deta
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-        <h3><a href="[YOUR_REPO_LINK_HERE]">E-Commerce Website - Berank Thrift</a></h3>
+        <h3><a href="https://github.com/kokatmx/e-commerce-laravue-microservice.git">E-Commerce Website - Berank Thrift</a></h3>
         <p>
             Developed a full-featured e-commerce platform for a thrift store as my final academic project. The
             system handles the entire sales process, featuring JWT-based authentication, complete product CRUD
@@ -108,7 +108,7 @@ Here are some of the projects I'm most proud of. Each repository contains a deta
                 <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"
                     alt="Live Demo">
             </a> -->
-            <a href="[YOUR_REPO_LINK_HERE]" target="_blank">
+            <a href="https://github.com/kokatmx/e-commerce-laravue-microservice.git" target="_blank">
                 <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"
                     alt="Source Code">
             </a>
@@ -124,13 +124,13 @@ Here are some of the projects I'm most proud of. Each repository contains a deta
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
         <img src="https://user-images.githubusercontent.com/26179770/133883025-2856e4e5-0b3c-4d2c-8007-063e5e4085f4.gif" alt="Internal Dashboard Demo" width="100%">
-      </a>
-    </td>
+      </a> 
+    </td> -->
     <td width="50%" valign="top">
-      <h3><a href="[YOUR_REPO_LINK_HERE]">Internal Contact Dashboard - Alfamart</a></h3>
+      <h3><a href="https://github.com/kokatmx/dashboard-contact-person.git">Internal Contact Dashboard - Alfamart</a></h3>
       <p>
         Designed and built a web-based internal dashboard to manage employee contact information for Alfamart DC Madiun. The project focused on creating a user-friendly and efficient system for internal company use.
       </p>
@@ -147,7 +147,7 @@ Here are some of the projects I'm most proud of. Each repository contains a deta
         <!-- <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
         </a> -->
-        <a href="[YOUR_REPO_LINK_HERE]" target="_blank">
+        <a href="https://github.com/kokatmx/dashboard-contact-person.git" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
         </a>
       </div>
