@@ -161,7 +161,7 @@ Here are some of the projects I'm most proud of. Each repository contains a deta
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kokatmx&show_icons=true&theme=radical" alt="GitHub Stats">
-  <!-- <br> -->
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokatmx&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
