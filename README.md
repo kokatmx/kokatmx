@@ -101,7 +101,7 @@ Here are some of the projects I'm most proud of. Each repository contains a deta
             </p>
         </details>
         <p>
-            <strong>Tech Stack:</strong> Laravel, Vue.js, TypeScript, JWT, and MySQL.
+            <strong>Tech Stack:</strong> Laravel, Vue.js, Tailwind, TypeScript, JWT, and MySQL.
         </p>
         <div>
             <!-- <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
@@ -141,7 +141,7 @@ Here are some of the projects I'm most proud of. Each repository contains a deta
         </p>
       </details>
       <p>
-        <strong>Tech Stack:</strong> Laravel and MySQL.
+        <strong>Tech Stack:</strong> Laravel, Tailwind, and MySQL.
       </p>
       <div>
         <!-- <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
