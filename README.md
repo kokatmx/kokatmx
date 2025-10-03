@@ -124,11 +124,11 @@ Here are some of the projects I'm most proud of. Each repository contains a deta
 
 <table width="100%">
   <tr>
-    <!-- <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
         <img src="https://user-images.githubusercontent.com/26179770/133883025-2856e4e5-0b3c-4d2c-8007-063e5e4085f4.gif" alt="Internal Dashboard Demo" width="100%">
       </a> 
-    </td> -->
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/kokatmx/dashboard-contact-person.git">Internal Contact Dashboard - Alfamart</a></h3>
       <p>
