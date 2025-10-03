@@ -84,43 +84,42 @@
 Here are some of the projects I'm most proud of. Each repository contains a detailed README.md with technical specifications and setup instructions.
 
 <table width="100%">
-    <tr>
-        <td width="50%" valign="top">
-            <h3><a href="[YOUR_REPO_LINK_HERE]">E-Commerce Website - Berank Thrift</a></h3>
+  <tr>
+    <td width="50%" valign="top">
+        <h3><a href="[YOUR_REPO_LINK_HERE]">E-Commerce Website - Berank Thrift</a></h3>
+        <p>
+            Developed a full-featured e-commerce platform for a thrift store as my final academic project. The
+            system handles the entire sales process, featuring JWT-based authentication, complete product CRUD
+            (Create, Read, Update, Delete) functionality, and transaction management.
+        </p>
+        <details>
+            <summary><strong>Key Achievement & Impact</strong></summary>
             <p>
-                Developed a full-featured e-commerce platform for a thrift store as my final academic project. The
-                system handles the entire sales process, featuring JWT-based authentication, complete product CRUD
-                (Create, Read, Update, Delete) functionality, and transaction management.
+                Conducted comprehensive bug fixing and performance optimization, resulting in a <strong>reduction of
+                    page load time by approximately 30%</strong>. This demonstrates a strong ability to not only
+                build features but also to refine and enhance application performance.
             </p>
-            <details>
-                <summary><strong>Key Achievement & Impact</strong></summary>
-                <p>
-                    Conducted comprehensive bug fixing and performance optimization, resulting in a <strong>reduction of
-                        page load time by approximately 30%</strong>. This demonstrates a strong ability to not only
-                    build features but also to refine and enhance application performance.
-                </p>
-            </details>
-            <p>
-                <strong>Tech Stack:</strong> Laravel, Vue.js, TypeScript, JWT, and MySQL.
-            </p>
-            <div>
-                <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
-                    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"
-                        alt="Live Demo">
-                </a>
-                <a href="[YOUR_REPO_LINK_HERE]" target="_blank">
-                    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"
-                        alt="Source Code">
-                </a>
-            </div>
-        </td>
-        <td width="50%" valign="top">
-            <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
-                <img src="https://user-images.githubusercontent.com/26179770/133883025-2856e4e5-0b3c-4d2c-8007-063e5e4085f4.gif"
-                    alt="Berank Thrift E-Commerce Demo" width="100%">
+        </details>
+        <p>
+            <strong>Tech Stack:</strong> Laravel, Vue.js, TypeScript, JWT, and MySQL.
+        </p>
+        <div>
+            <!-- <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
+                <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"
+                    alt="Live Demo">
+            </a> -->
+            <a href="[YOUR_REPO_LINK_HERE]" target="_blank">
+                <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"
+                    alt="Source Code">
             </a>
-        </td>
-    </tr>
+        </div>
+    </td>
+    <td width="50%" valign="top">
+        <!-- <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
+            <img src="https://user-images.githubusercontent.com/26179770/133883025-2856e4e5-0b3c-4d2c-8007-063e5e4085f4.gif" alt="Berank Thrift E-Commerce Demo" width="100%">
+        </a> -->
+    </td>
+  </tr>
 </table>
 
 <table width="100%">
@@ -145,9 +144,9 @@ Here are some of the projects I'm most proud of. Each repository contains a deta
         <strong>Tech Stack:</strong> Laravel and MySQL.
       </p>
       <div>
-        <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
+        <!-- <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-        </a>
+        </a> -->
         <a href="[YOUR_REPO_LINK_HERE]" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
         </a>
