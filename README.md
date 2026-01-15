@@ -20,7 +20,7 @@
 - 🌱 I’m currently diving deep into **Artificial Intelligence** by building projects with OpenAI's API and learning about machine learning concepts.
 - ⛓️ I'm also exploring the **Blockchain** space, particularly interested in smart contracts and decentralized applications (dApps).
 - 👯 I’m looking to collaborate on open-source projects related to web development or educational AI tools.
-- 🥅 2025 Goals: Land my first role as a Junior Web Developer and contribute to a meaningful project.
+- 🥅 2026 Goals: Land my first role as a Junior Web Developer and contribute to a meaningful project.
 
 ---
 
