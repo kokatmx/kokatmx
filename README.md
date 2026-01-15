@@ -5,7 +5,7 @@
 <h1 align="center">
   Hi there, I'm Suko Dwi Atmodjo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">A Passionate Web Developer exploring the worlds of AI and Blockhain</h3>
+<h3 align="center">A Passionate Web Developer exploring the worlds of AI and Blockchain</h3>
 
 <p align="center">
   Fresh graduate with a strong foundation in modern web development, actively seeking opportunities to build impactful and innovative solutions. I turn ideas into reality with clean and efficient code.
